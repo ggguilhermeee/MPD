@@ -1,0 +1,1822 @@
+{
+ "setlists":{
+  "@itemsPerPage":"20",
+  "@page":"2",
+  "@total":"85",
+  "setlist":[
+   {
+    "@eventDate":"18-04-2016",
+    "@id":"73f1e651",
+    "@lastUpdated":"2016-04-29T00:17:56.000+0000",
+    "@tour":"How Blue Tour",
+    "@versionId":"4ba3c702",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"5fee3020-513b-48c2-b1f7-4681b01db0c6",
+     "@name":"Florence + the Machine",
+     "@sortName":"Florence + the Machine",
+     "@tmid":"1362337",
+     "url":"http:\/\/www.setlist.fm\/setlists\/florence-the-machine-7bd646f8.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":[
+      {
+       "song":[
+        {
+         "@name":"What the Water Gave Me"
+        },
+        {
+         "@name":"Ship to Wreck"
+        },
+        {
+         "@name":"Bird Song Intro"
+        },
+        {
+         "@name":"Rabbit Heart (Raise It Up)"
+        },
+        {
+         "@name":"Shake It Out"
+        },
+        {
+         "@name":"Delilah"
+        },
+        {
+         "@name":"Sweet Nothing",
+         "cover":{
+          "@disambiguation":"Scottish producer\/songwriter",
+          "@mbid":"8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+          "@name":"Calvin Harris",
+          "@sortName":"Harris, Calvin",
+          "@tmid":"1149552",
+          "url":"http:\/\/www.setlist.fm\/setlists\/calvin-harris-4bd667a6.html"
+         }
+        },
+        {
+         "@name":"How Big, How Blue, How Beautiful"
+        },
+        {
+         "@name":"Cosmic Love"
+        },
+        {
+         "@name":"Long & Lost"
+        },
+        {
+         "@name":"Mother"
+        },
+        {
+         "@name":"Queen of Peace"
+        },
+        {
+         "@name":"Spectrum"
+        },
+        {
+         "@name":"You've Got the Love",
+         "cover":{
+          "@disambiguation":"Paul Oakenfold and Andy Gray",
+          "@mbid":"616c2eef-a1e4-4abd-9864-99a6e691129c",
+          "@name":"The Source",
+          "@sortName":"Source, The",
+          "url":"http:\/\/www.setlist.fm\/setlists\/the-source-3bd6b0c0.html"
+         }
+        },
+        {
+         "@name":"Dog Days Are Over"
+        }
+       ]
+      },
+      {
+       "@encore":"1",
+       "song":[
+        {
+         "@name":"What Kind of Man"
+        },
+        {
+         "@name":"Drumming Song"
+        }
+       ]
+      }
+     ]
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/florence-the-machine\/2016\/meo-arena-lisbon-portugal-73f1e651.html"
+   },
+   {
+    "@eventDate":"18-04-2016",
+    "@id":"33f1e08d",
+    "@lastUpdated":"2016-04-18T22:17:48.000+0000",
+    "@tour":"How Blue Tour",
+    "@versionId":"5ba25b1c",
+    "artist":{
+     "@disambiguation":"Singer \/ Songwriter",
+     "@mbid":"af2a1450-42e7-4886-8c54-1e4b51ea037d",
+     "@name":"Gabriel Bruce",
+     "@sortName":"Bruce, Gabriel",
+     "@tmid":"1783709",
+     "url":"http:\/\/www.setlist.fm\/setlists\/gabriel-bruce-bdcc542.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":{
+      "song":[
+       {
+        "@name":"Sacred Heart"
+       },
+       {
+        "@name":"Metal Soul"
+       },
+       {
+        "@name":"Kurt and Kanye"
+       },
+       {
+        "@name":"Gates of Babylon"
+       },
+       {
+        "@name":"Freedom"
+       },
+       {
+        "@name":"Come All Sufferers"
+       }
+      ]
+     }
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/gabriel-bruce\/2016\/meo-arena-lisbon-portugal-33f1e08d.html"
+   },
+   {
+    "@eventDate":"16-04-2016",
+    "@id":"5bf1f7d0",
+    "@lastUpdated":"2016-05-21T13:56:31.000+0000",
+    "@tour":"Cloud Nine World Tour",
+    "@versionId":"23a008bb",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"ba0e7638-0cd6-4ff4-8987-c3e224d22c23",
+     "@name":"Kygo",
+     "@sortName":"Kygo",
+     "url":"http:\/\/www.setlist.fm\/setlists\/kygo-3bdbf00c.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":[
+      {
+       "song":[
+        {
+         "@name":"Younger",
+         "cover":{
+          "@disambiguation":"",
+          "@mbid":"61946666-398b-4ba2-9a3d-e9a6b4d3077f",
+          "@name":"Seinabo Sey",
+          "@sortName":"Sey, Seinabo",
+          "url":"http:\/\/www.setlist.fm\/setlists\/seinabo-sey-1bdde988.html"
+         },
+         "info":"Remix"
+        },
+        {
+         "@name":"Miami 82"
+        },
+        {
+         "@name":"Stay"
+        },
+        {
+         "@name":"Carry Me"
+        },
+        {
+         "@name":"I'm In Love"
+        },
+        {
+         "@name":"I See Fire",
+         "cover":{
+          "@disambiguation":"famous UK singer-songwriter",
+          "@mbid":"b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "@name":"Ed Sheeran",
+          "@sortName":"Sheeran, Ed",
+          "@tmid":"1560779",
+          "url":"http:\/\/www.setlist.fm\/setlists\/ed-sheeran-53d5f3bd.html"
+         },
+         "info":"Remix"
+        },
+        {
+         "@name":"Often",
+         "cover":{
+          "@disambiguation":"Canadian R&B singer",
+          "@mbid":"c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "@name":"The Weeknd",
+          "@sortName":"Weeknd, The",
+          "@tmid":"1489460",
+          "url":"http:\/\/www.setlist.fm\/setlists\/the-weeknd-5bd26bb4.html"
+         },
+         "info":"Remix"
+        },
+        {
+         "@name":"No Diggity vs Thrift Shop"
+        },
+        {
+         "@name":"Coming Over"
+        },
+        {
+         "@name":"Cut Your Teeth",
+         "cover":{
+          "@disambiguation":"",
+          "@mbid":"082e714f-be12-4890-ae83-6203bd9c7d2a",
+          "@name":"Kyla La Grange",
+          "@sortName":"La Grange, Kyla",
+          "@tmid":"1620389",
+          "url":"http:\/\/www.setlist.fm\/setlists\/kyla-la-grange-1bd07554.html"
+         },
+         "info":"Remix"
+        },
+        {
+         "@name":"Sexual Healing",
+         "cover":{
+          "@disambiguation":"",
+          "@mbid":"afdb7919-059d-43c1-b668-ba1d265e7e42",
+          "@name":"Marvin Gaye",
+          "@sortName":"Gaye, Marvin",
+          "url":"http:\/\/www.setlist.fm\/setlists\/marvin-gaye-bd6b99e.html"
+         },
+         "info":"Remix"
+        },
+        {
+         "@name":"Wait",
+         "cover":{
+          "@disambiguation":"",
+          "@mbid":"6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
+          "@name":"M83",
+          "@sortName":"M83",
+          "@tmid":"971936",
+          "url":"http:\/\/www.setlist.fm\/setlists\/m83-53d68f85.html"
+         },
+         "info":"Remix"
+        },
+        {
+         "@name":"Happy Birthday",
+         "cover":{
+          "@disambiguation":"",
+          "@mbid":"75a72702-a5ef-4513-bca5-c5b944903546",
+          "@name":"John Legend",
+          "@sortName":"Legend, John",
+          "@tmid":"936461",
+          "url":"http:\/\/www.setlist.fm\/setlists\/john-legend-7bd6e214.html"
+         }
+        },
+        {
+         "@name":"Oasis"
+        },
+        {
+         "@name":"Raging"
+        },
+        {
+         "@name":"Nothing Left"
+        },
+        {
+         "@name":"Midnight",
+         "cover":{
+          "@disambiguation":"",
+          "@mbid":"cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "@name":"Coldplay",
+          "@sortName":"Coldplay",
+          "@tmid":"806431",
+          "url":"http:\/\/www.setlist.fm\/setlists\/coldplay-3d6bde3.html"
+         },
+         "info":"Remix"
+        }
+       ]
+      },
+      {
+       "@encore":"1",
+       "song":[
+        {
+         "@name":"Firestone"
+        },
+        {
+         "@name":"Stole the Show"
+        }
+       ]
+      }
+     ]
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/kygo\/2016\/meo-arena-lisbon-portugal-5bf1f7d0.html"
+   },
+   {
+    "@eventDate":"09-04-2016",
+    "@id":"3bf1905c",
+    "@lastUpdated":"2017-03-29T10:49:28.000+0000",
+    "@versionId":"235f387f",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"b5954bc9-bd18-4064-a17a-1ad719e617a5",
+     "@name":"Ana Moura",
+     "@sortName":"Moura, Ana",
+     "@tmid":"1385352",
+     "url":"http:\/\/www.setlist.fm\/setlists\/ana-moura-2bd644aa.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":{
+      "song":[
+       {
+        "@name":"Moura Encantada"
+       },
+       {
+        "@name":"Ai Eu"
+       },
+       {
+        "@name":"O Meu Amor Foi Para O Brasil"
+       },
+       {
+        "@name":"Fado Dançado"
+       },
+       {
+        "@name":"Desamparo"
+       },
+       {
+        "@name":"Agora É Que É"
+       },
+       {
+        "@name":"Ninharia"
+       },
+       {
+        "@name":"De Quando Em Vez"
+       },
+       {
+        "@name":"Porque Teimas Nesta Dor"
+       },
+       {
+        "@name":"Maldição",
+        "cover":{
+         "@disambiguation":"",
+         "@mbid":"6b605219-90fa-465e-82ae-60d2347bd030",
+         "@name":"Amália Rodrigues",
+         "@sortName":"Rodrigues, Amália",
+         "url":"http:\/\/www.setlist.fm\/setlists\/amalia-rodrigues-13d63125.html"
+        }
+       },
+       {
+        "@name":"band instrumental"
+       },
+       {
+        "@name":"Eu Entrego"
+       },
+       {
+        "@name":"Valentim",
+        "cover":{
+         "@disambiguation":"",
+         "@mbid":"6b605219-90fa-465e-82ae-60d2347bd030",
+         "@name":"Amália Rodrigues",
+         "@sortName":"Rodrigues, Amália",
+         "url":"http:\/\/www.setlist.fm\/setlists\/amalia-rodrigues-13d63125.html"
+        }
+       },
+       {
+        "@name":"Moura"
+       },
+       {
+        "@name":"Leva-me aos fados"
+       },
+       {
+        "@name":"Os Búzios"
+       },
+       {
+        "@name":"Tens Os Olhos De Deus"
+       },
+       {
+        "@name":"Bailinho À Portuguesa"
+       },
+       {
+        "@name":"Dia De Folga"
+       },
+       {
+        "@name":"Loucura"
+       },
+       {
+        "@name":"Desfado"
+       },
+       {
+        "@name":"Fadinho Serrano"
+       }
+      ]
+     }
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/ana-moura\/2016\/meo-arena-lisbon-portugal-3bf1905c.html"
+   },
+   {
+    "@eventDate":"30-03-2016",
+    "@id":"43f06f6f",
+    "@lastUpdated":"2016-04-01T07:59:59.000+0000",
+    "@tour":"An Evening with Macklemore & Ryan Lewis",
+    "@versionId":"3ba57464",
+    "artist":{
+     "@mbid":"e3e9030f-ecb8-46cd-a98d-6f2632d6686d",
+     "@name":"Macklemore & Ryan Lewis",
+     "@sortName":"Macklemore & Lewis, Ryan",
+     "@tmid":"1175674",
+     "url":"http:\/\/www.setlist.fm\/setlists\/macklemore-and-ryan-lewis-1bd0c5ec.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":[
+      {
+       "song":[
+        {
+         "@name":"Light Tunnels"
+        },
+        {
+         "@name":"Brad Pitt's Cousin"
+        },
+        {
+         "@name":"Buckshot"
+        },
+        {
+         "@name":"Thrift Shop"
+        },
+        {
+         "@name":"The Shades"
+        },
+        {
+         "@name":"Arrows"
+        },
+        {
+         "@name":"Wing$"
+        },
+        {
+         "@name":"Same Love"
+        },
+        {
+         "@name":"Growing Up"
+        },
+        {
+         "@name":"White Privilege II"
+        },
+        {
+         "@name":"Kevin"
+        },
+        {
+         "@name":"St. Ides"
+        },
+        {
+         "@name":"Let's Eat"
+        },
+        {
+         "@name":"White Walls"
+        },
+        {
+         "@name":"Can't Hold Us"
+        }
+       ]
+      },
+      {
+       "@encore":"1",
+       "song":[
+        {
+         "@name":"And We Danced"
+        },
+        {
+         "@name":"Dance Off"
+        }
+       ]
+      },
+      {
+       "@encore":"2",
+       "song":{
+        "@name":"Downtown"
+       }
+      }
+     ]
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/macklemore-and-ryan-lewis\/2016\/meo-arena-lisbon-portugal-43f06f6f.html"
+   },
+   {
+    "@eventDate":"25-01-2016",
+    "@id":"73f38291",
+    "@lastUpdated":"2016-05-22T00:11:14.000+0000",
+    "@tour":"Get Up! Tour",
+    "@versionId":"1ba00148",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"4dbf5678-7a31-406a-abbe-232f8ac2cd63",
+     "@name":"Bryan Adams",
+     "@sortName":"Adams, Bryan",
+     "@tmid":"734390",
+     "url":"http:\/\/www.setlist.fm\/setlists\/bryan-adams-6bd6ba76.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":[
+      {
+       "song":[
+        {
+         "@name":"Do What Ya Gotta Do"
+        },
+        {
+         "@name":"Can't Stop This Thing We Started"
+        },
+        {
+         "@name":"She's Only Happy When She's Dancin'"
+        },
+        {
+         "@name":"Run to You"
+        },
+        {
+         "@name":"Go Down Rockin'"
+        },
+        {
+         "@name":"Heaven"
+        },
+        {
+         "@name":"When You're Gone",
+         "info":"solo acoustic"
+        },
+        {
+         "@name":"(Everything I Do) I Do It for You"
+        },
+        {
+         "@name":"It's Only Love"
+        },
+        {
+         "@name":"Somebody"
+        },
+        {
+         "@name":"Summer of '69"
+        },
+        {
+         "@name":"Kids Wanna Rock"
+        },
+        {
+         "@name":"This Time"
+        },
+        {
+         "@name":"Lonely Nights"
+        },
+        {
+         "@name":"If Ya Wanna Be Bad Ya Gotta Be Good"
+        },
+        {
+         "@name":"Here I Am"
+        },
+        {
+         "@name":"I'll Always Be Right There"
+        },
+        {
+         "@name":"Have You Ever Really Loved a Woman?"
+        },
+        {
+         "@name":"Cuts Like a Knife"
+        },
+        {
+         "@name":"18 til I Die"
+        },
+        {
+         "@name":"The Only Thing That Looks Good on Me Is You"
+        }
+       ]
+      },
+      {
+       "@encore":"1",
+       "song":[
+        {
+         "@name":"You Belong to Me"
+        },
+        {
+         "@name":"Brand New Day"
+        },
+        {
+         "@name":"C'mon Everybody",
+         "cover":{
+          "@disambiguation":"",
+          "@mbid":"17995d1c-5b3c-4ee9-98f5-105ee3b4ada1",
+          "@name":"Eddie Cochran",
+          "@sortName":"Cochran, Eddie",
+          "url":"http:\/\/www.setlist.fm\/setlists\/eddie-cochran-4bd6af56.html"
+         }
+        },
+        {
+         "@name":"Straight From the Heart",
+         "info":"solo acoustic"
+        },
+        {
+         "@name":"All for Love",
+         "cover":{
+          "@mbid":"6a12fa6d-5633-4e06-a1f5-44c11a9d98c5",
+          "@name":"Bryan Adams, Rod Stewart & Sting",
+          "@sortName":"Adams, Bryan, Stewart, Rod & Sting",
+          "url":"http:\/\/www.setlist.fm\/setlists\/bryan-adams-rod-stewart-and-sting-33d6b8a5.html"
+         },
+         "info":"solo acoustic"
+        }
+       ]
+      }
+     ]
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/bryan-adams\/2016\/meo-arena-lisbon-portugal-73f38291.html"
+   },
+   {
+    "@eventDate":"13-12-2015",
+    "@id":"63f2ca7f",
+    "@lastUpdated":"2017-02-19T01:53:34.000+0000",
+    "@tour":"Sex and Love World Tour",
+    "@versionId":"4b518f3a",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"35f866dc-c061-48ba-8157-cf2e0eac4857",
+     "@name":"Enrique Iglesias",
+     "@sortName":"Iglesias, Enrique",
+     "@tmid":"777945",
+     "url":"http:\/\/www.setlist.fm\/setlists\/enrique-iglesias-7bd62e44.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":{
+      "song":[
+       {
+        "@name":"I'm a Freak"
+       },
+       {
+        "@name":"I Like How It Feels"
+       },
+       {
+        "@name":"Heartbeat"
+       },
+       {
+        "@name":"Bailamos"
+       },
+       {
+        "@name":"Ring My Bells"
+       },
+       {
+        "@name":"Loco"
+       },
+       {
+        "@name":"Stand by Me",
+        "cover":{
+         "@disambiguation":"",
+         "@mbid":"837555ba-012e-45f1-9a9c-9628da13ee54",
+         "@name":"Ben E. King",
+         "@sortName":"King, Ben E.",
+         "@tmid":"821412",
+         "url":"http:\/\/www.setlist.fm\/setlists\/ben-e-king-43d69ff3.html"
+        }
+       },
+       {
+        "@name":"Be With You"
+       },
+       {
+        "@name":"Escape"
+       },
+       {
+        "@name":"Hero"
+       },
+       {
+        "@name":"Experiencia religiosa"
+       },
+       {
+        "@name":"El perdón"
+       },
+       {
+        "@name":"Bailando"
+       },
+       {
+        "@name":"I Like It"
+       },
+       {
+        "@name":"Tonight (I'm Lovin' You)"
+       }
+      ]
+     }
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/enrique-iglesias\/2015\/meo-arena-lisbon-portugal-63f2ca7f.html"
+   },
+   {
+    "@eventDate":"06-11-2015",
+    "@id":"5bf5272c",
+    "@lastUpdated":"2015-11-07T12:11:15.000+0000",
+    "@versionId":"3bde9c7",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"758416ad-4871-472a-ab82-fd6e1b7b6c67",
+     "@name":"Rui Veloso",
+     "@sortName":"Veloso, Rui",
+     "url":"http:\/\/www.setlist.fm\/setlists\/rui-veloso-bd731de.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":"",
+    "url":"http:\/\/www.setlist.fm\/setlist\/rui-veloso\/2015\/meo-arena-lisbon-portugal-5bf5272c.html"
+   },
+   {
+    "@eventDate":"11-10-2015",
+    "@id":"2bf47c5e",
+    "@lastUpdated":"2015-10-17T18:30:51.000+0000",
+    "@tour":"Fall International 2015",
+    "@versionId":"3bbf5480",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"07e748f1-075e-428d-85dc-ce3be434e906",
+     "@name":"Dave Matthews Band",
+     "@sortName":"Matthews, Dave, Band",
+     "@tmid":"746531",
+     "url":"http:\/\/www.setlist.fm\/setlists\/dave-matthews-band-43d6e713.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":[
+      {
+       "@name":"Set 1",
+       "song":[
+        {
+         "@name":"Warehouse"
+        },
+        {
+         "@name":"Black and Blue Bird",
+         "info":"tour debut"
+        },
+        {
+         "@name":"Dancing Nancies",
+         "info":"tour debut"
+        },
+        {
+         "@name":"Stay or Leave",
+         "cover":{
+          "@disambiguation":"of Dave Matthews Band",
+          "@mbid":"2fa95b32-3c11-42d7-b495-12fc6be0a024",
+          "@name":"Dave Matthews",
+          "@sortName":"Matthews, Dave",
+          "@tmid":"746531",
+          "url":"http:\/\/www.setlist.fm\/setlists\/dave-matthews-5bd6e7dc.html"
+         },
+         "info":"tour debut"
+        },
+        {
+         "@name":"Belly Belly Nice",
+         "info":"tour debut"
+        },
+        {
+         "@name":"Crush"
+        },
+        {
+         "@name":"Lover Lay Down",
+         "info":"tour debut"
+        },
+        {
+         "@name":"Satellite"
+        },
+        {
+         "@name":"Grey Street",
+         "info":"tour debut; Carter returned to his kit after the song due to continual audience singing"
+        }
+       ]
+      },
+      {
+       "@name":"Set 2",
+       "song":[
+        {
+         "@name":"Death on the High Seas",
+         "info":"Dave solo"
+        },
+        {
+         "@name":"Little Red Bird",
+         "info":"Dave solo; tour debut"
+        },
+        {
+         "@name":"Bartender",
+         "info":"Dave & Tim; tour debut"
+        },
+        {
+         "@name":"Seek Up",
+         "info":"tour debut"
+        },
+        {
+         "@name":"Don't Drink the Water"
+        },
+        {
+         "@name":"#41"
+        },
+        {
+         "@name":"So Much to Say",
+         "info":">>; tour debut"
+        },
+        {
+         "@name":"Anyone Seen the Bridge",
+         "info":">>; tour debut"
+        },
+        {
+         "@name":"Too Much"
+        },
+        {
+         "@name":"If Only",
+         "info":"tour debut"
+        },
+        {
+         "@name":"What Would You Say"
+        },
+        {
+         "@name":"Jimi Thing",
+         "info":"tour debut"
+        },
+        {
+         "@name":"Pantala Naga Pampa",
+         "info":">>; tour debut"
+        },
+        {
+         "@name":"Rapunzel",
+         "info":"tour debut"
+        }
+       ]
+      },
+      {
+       "@encore":"1",
+       "@name":"Set 2",
+       "song":[
+        {
+         "@name":"Kill the Preacher",
+         "info":"partial"
+        },
+        {
+         "@name":"Ants Marching"
+        }
+       ]
+      }
+     ]
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/dave-matthews-band\/2015\/meo-arena-lisbon-portugal-2bf47c5e.html"
+   },
+   {
+    "@eventDate":"24-09-2015",
+    "@id":"1bf4f94c",
+    "@lastUpdated":"2015-09-22T00:55:50.000+0000",
+    "@versionId":"1bb16560",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98",
+     "@name":"Diana Krall",
+     "@sortName":"Krall, Diana",
+     "@tmid":"773409",
+     "url":"http:\/\/www.setlist.fm\/setlists\/diana-krall-53d6bbc1.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":"",
+    "url":"http:\/\/www.setlist.fm\/setlist\/diana-krall\/2015\/meo-arena-lisbon-portugal-1bf4f94c.html"
+   },
+   {
+    "@eventDate":"17-06-2015",
+    "@id":"73c90a19",
+    "@lastUpdated":"2015-12-26T23:23:40.000+0000",
+    "@versionId":"3b8d16b",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"7198df02-5a41-46c0-afc7-b545829e6f4d",
+     "@name":"Nick Gardner",
+     "@sortName":"Nick Gardner",
+     "url":"http:\/\/www.setlist.fm\/setlists\/nick-gardner-13c7b951.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":{
+      "song":[
+       {
+        "@name":"Lose You"
+       },
+       {
+        "@name":"In My Arms"
+       },
+       {
+        "@name":"Like a Prayer",
+        "cover":{
+         "@disambiguation":"",
+         "@mbid":"79239441-bfd5-4981-a70c-55c3f15c1287",
+         "@name":"Madonna",
+         "@sortName":"Madonna",
+         "url":"http:\/\/www.setlist.fm\/setlists\/madonna-bd6bdbe.html"
+        },
+        "info":"Part of Medley"
+       },
+       {
+        "@name":"Take Me to Church",
+        "cover":{
+         "@disambiguation":"",
+         "@mbid":"b4691384-50c3-4afd-9988-51d3ec5db65d",
+         "@name":"Hozier",
+         "@sortName":"Hozier",
+         "url":"http:\/\/www.setlist.fm\/setlists\/hozier-63da4a6f.html"
+        },
+        "info":"Part of Medley"
+       },
+       {
+        "@name":"Open Door"
+       },
+       {
+        "@name":"Hold Me Down"
+       }
+      ]
+     }
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/nick-gardner\/2015\/meo-arena-lisbon-portugal-73c90a19.html"
+   },
+   {
+    "@eventDate":"17-06-2015",
+    "@id":"bc9217e",
+    "@lastUpdated":"2015-06-18T11:58:40.000+0000",
+    "@tour":"Maroon V Tour",
+    "@versionId":"63b61a7f",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"0ab49580-c84f-44d4-875f-d83760ea2cfe",
+     "@name":"Maroon 5",
+     "@sortName":"Maroon 5",
+     "@tmid":"824144",
+     "url":"http:\/\/www.setlist.fm\/setlists\/maroon-5-4bd6bfea.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":[
+      {
+       "song":[
+        {
+         "@name":"Animals"
+        },
+        {
+         "@name":"One More Night",
+         "info":"w\/ snippets from Monster by Kanye West"
+        },
+        {
+         "@name":"Stereo Hearts",
+         "cover":{
+          "@disambiguation":"",
+          "@mbid":"f4d4b515-0b74-423f-a161-db184330c37c",
+          "@name":"Gym Class Heroes",
+          "@sortName":"Gym Class Heroes",
+          "@tmid":"945834",
+          "url":"http:\/\/www.setlist.fm\/setlists\/gym-class-heroes-63d65687.html"
+         }
+        },
+        {
+         "@name":"Harder to Breathe"
+        },
+        {
+         "@name":"Lucky Strike"
+        },
+        {
+         "@name":"Wake Up Call"
+        },
+        {
+         "@name":"Love Somebody"
+        },
+        {
+         "@name":"Maps"
+        },
+        {
+         "@name":"This Love"
+        },
+        {
+         "@name":"Sunday Morning"
+        },
+        {
+         "@name":"Makes Me Wonder"
+        },
+        {
+         "@name":"Payphone"
+        },
+        {
+         "@name":"Daylight"
+        }
+       ]
+      },
+      {
+       "@encore":"1",
+       "song":[
+        {
+         "@name":"This Summer's Gonna Hurt Like a Motherf****r"
+        },
+        {
+         "@name":"She Will Be Loved"
+        },
+        {
+         "@name":"Moves Like Jagger"
+        },
+        {
+         "@name":"Sugar"
+        }
+       ]
+      }
+     ]
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/maroon-5\/2015\/meo-arena-lisbon-portugal-bc9217e.html"
+   },
+   {
+    "@eventDate":"17-06-2015",
+    "@id":"bc92172",
+    "@lastUpdated":"2015-08-01T15:51:40.000+0000",
+    "@tour":"Maroon V Tour",
+    "@versionId":"2bb548de",
+    "artist":{
+     "@disambiguation":"Canadian reggae-pop band",
+     "@mbid":"53fa616a-e2b4-4982-bef8-6362b44054f0",
+     "@name":"MAGIC!",
+     "@sortName":"MAGIC!",
+     "url":"http:\/\/www.setlist.fm\/setlists\/magic-1bdbc5f8.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":{
+      "song":[
+       {
+        "@name":"Don't Kill the Magic"
+       },
+       {
+        "@name":"Mama Didn't Raise No Fool"
+       },
+       {
+        "@name":"No Way No"
+       },
+       {
+        "@name":"Sunday Funday"
+       },
+       {
+        "@name":"Let Your Hair Down"
+       },
+       {
+        "@name":"No Evil"
+       },
+       {
+        "@name":"Message in a Bottle",
+        "cover":{
+         "@disambiguation":"",
+         "@mbid":"9e0e2b01-41db-4008-bd8b-988977d6019a",
+         "@name":"The Police",
+         "@sortName":"Police, The",
+         "@tmid":"1101273",
+         "url":"http:\/\/www.setlist.fm\/setlists\/the-police-2bd6b80a.html"
+        }
+       },
+       {
+        "@name":"Rude"
+       }
+      ]
+     }
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/magic\/2015\/meo-arena-lisbon-portugal-bc92172.html"
+   },
+   {
+    "@eventDate":"14-06-2015",
+    "@id":"1bc93560",
+    "@lastUpdated":"2016-03-15T14:50:22.000+0000",
+    "@tour":"Sweet Talker Tour",
+    "@versionId":"1ba47978",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"d24fb461-dee8-41fc-bb15-2f13bb2644a6",
+     "@name":"Jessie J",
+     "@sortName":"Jessie J",
+     "@tmid":"1543668",
+     "url":"http:\/\/www.setlist.fm\/setlists\/jessie-j-23d294cf.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":[
+      {
+       "song":[
+        {
+         "@name":"Ain't Been Done"
+        },
+        {
+         "@name":"Domino"
+        },
+        {
+         "@name":"Keep Us Together"
+        },
+        {
+         "@name":"Nobody's Perfect"
+        },
+        {
+         "@name":"I Have Nothing",
+         "cover":{
+          "@disambiguation":"",
+          "@mbid":"0307edfc-437c-4b48-8700-80680e66a228",
+          "@name":"Whitney Houston",
+          "@sortName":"Houston, Whitney",
+          "@tmid":"735303",
+          "url":"http:\/\/www.setlist.fm\/setlists\/whitney-houston-5bd6bfa0.html"
+         }
+        },
+        {
+         "@name":"Who You Are"
+        },
+        {
+         "@name":"Flashlight"
+        },
+        {
+         "@name":"Sweet Talker"
+        },
+        {
+         "@name":"Burnin' Up"
+        },
+        {
+         "@name":"Do It Like a Dude"
+        }
+       ]
+      },
+      {
+       "@encore":"1",
+       "song":[
+        {
+         "@name":"Price Tag"
+        },
+        {
+         "@name":"Masterpiece"
+        },
+        {
+         "@name":"Bang Bang"
+        }
+       ]
+      }
+     ]
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/jessie-j\/2015\/meo-arena-lisbon-portugal-1bc93560.html"
+   },
+   {
+    "@eventDate":"23-05-2015",
+    "@id":"73c9b299",
+    "@lastUpdated":"2015-05-24T18:03:07.000+0000",
+    "@tour":"Tour Terral",
+    "@versionId":"2b8860b6",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"c62936e1-7f2a-4c99-b09b-a5bc85d6c1f3",
+     "@name":"Pablo Alborán",
+     "@sortName":"Alborán, Pablo",
+     "url":"http:\/\/www.setlist.fm\/setlists\/pablo-alboran-73d382d9.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":"",
+    "url":"http:\/\/www.setlist.fm\/setlist\/pablo-alboran\/2015\/meo-arena-lisbon-portugal-73c9b299.html"
+   },
+   {
+    "@eventDate":"04-05-2015",
+    "@id":"23fc9c1f",
+    "@lastUpdated":"2016-08-05T00:08:31.000+0000",
+    "@tour":"Rock Out with Your Socks Out Tour",
+    "@versionId":"6badce9e",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"dda7dcb6-154e-471e-a28d-6acbe11c7f2d",
+     "@name":"Hey Violet",
+     "@sortName":"Hey Violet",
+     "url":"http:\/\/www.setlist.fm\/setlists\/hey-violet-7bc3768c.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":"",
+    "url":"http:\/\/www.setlist.fm\/setlist\/hey-violet\/2015\/meo-arena-lisbon-portugal-23fc9c1f.html"
+   },
+   {
+    "@eventDate":"04-05-2015",
+    "@id":"73c83295",
+    "@lastUpdated":"2015-11-12T11:37:33.000+0000",
+    "@tour":"Rock Out with Your Socks Out Tour",
+    "@versionId":"3bbd0c28",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"830e5c4e-6b7d-431d-86ab-00c751281dc5",
+     "@name":"5 Seconds of Summer",
+     "@sortName":"5 Seconds of Summer",
+     "@tmid":"1778118",
+     "url":"http:\/\/www.setlist.fm\/setlists\/5-seconds-of-summer-6bdc6e66.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":[
+      {
+       "song":[
+        {
+         "@name":"End Up Here"
+        },
+        {
+         "@name":"Out of My Limit"
+        },
+        {
+         "@name":"Heartbreak Girl"
+        },
+        {
+         "@name":"Voodoo Doll"
+        },
+        {
+         "@name":"Permanent Vacation",
+         "info":"live debut"
+        },
+        {
+         "@name":"Don't Stop"
+        },
+        {
+         "@name":"Disconnected"
+        },
+        {
+         "@name":"Long Way Home"
+        },
+        {
+         "@name":"Rejects"
+        },
+        {
+         "@name":"Heartache on the Big Screen"
+        },
+        {
+         "@name":"Wrapped Around Your Finger"
+        },
+        {
+         "@name":"Amnesia"
+        },
+        {
+         "@name":"Beside You"
+        },
+        {
+         "@name":"Everything I Didn't Say"
+        },
+        {
+         "@name":"American Idiot",
+         "cover":{
+          "@disambiguation":"",
+          "@mbid":"084308bd-1654-436f-ba03-df6697104e19",
+          "@name":"Green Day",
+          "@sortName":"Green Day",
+          "@tmid":"768353",
+          "url":"http:\/\/www.setlist.fm\/setlists\/green-day-13d68939.html"
+         }
+        },
+        {
+         "@name":"Kiss Me Kiss Me"
+        },
+        {
+         "@name":"She Looks So Perfect"
+        }
+       ]
+      },
+      {
+       "@encore":"1",
+       "song":[
+        {
+         "@name":"Good Girls"
+        },
+        {
+         "@name":"What I Like About You",
+         "cover":{
+          "@disambiguation":"US new wave band",
+          "@mbid":"f5e31fda-bbf5-4ab6-8194-bcc9209b53f8",
+          "@name":"The Romantics",
+          "@sortName":"Romantics, The",
+          "@tmid":"736001",
+          "url":"http:\/\/www.setlist.fm\/setlists\/the-romantics-2bd6b0da.html"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/5-seconds-of-summer\/2015\/meo-arena-lisbon-portugal-73c83295.html"
+   },
+   {
+    "@eventDate":"01-04-2015",
+    "@id":"3cb612f",
+    "@lastUpdated":"2015-06-04T23:59:04.000+0000",
+    "@tour":"No Sound Without Silence Tour",
+    "@versionId":"38975f7",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"4c98aa1b-34eb-4336-987f-5e50aa059c00",
+     "@name":"The Script",
+     "@sortName":"Script, The",
+     "@tmid":"1290672",
+     "url":"http:\/\/www.setlist.fm\/setlists\/the-script-53d657dd.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":[
+      {
+       "@name":"Main Stage",
+       "song":[
+        {
+         "@name":"Paint the Town Green"
+        },
+        {
+         "@name":"Hail Rain or Sunshine"
+        },
+        {
+         "@name":"Breakeven"
+        },
+        {
+         "@name":"Before the Worst"
+        },
+        {
+         "@name":"Superheroes"
+        },
+        {
+         "@name":"We Cry"
+        },
+        {
+         "@name":"If You Could See Me Now"
+        },
+        {
+         "@name":"Man on a Wire"
+        },
+        {
+         "@name":"Nothing"
+        },
+        {
+         "@name":"Good Ol' Days"
+        }
+       ]
+      },
+      {
+       "@name":"B-Stage",
+       "song":[
+        {
+         "@name":"Never Seen Anything \"Quite Like You\""
+        },
+        {
+         "@name":"The Man Who Can't Be Moved"
+        }
+       ]
+      },
+      {
+       "@name":"Main Stage",
+       "song":[
+        {
+         "@name":"You Won't Feel a Thing"
+        },
+        {
+         "@name":"Six Degrees of Separation"
+        },
+        {
+         "@name":"It's Not Right for You"
+        }
+       ]
+      },
+      {
+       "@encore":"1",
+       "@name":"Main Stage",
+       "song":[
+        {
+         "@name":"The Energy Never Dies"
+        },
+        {
+         "@name":"For the First Time"
+        },
+        {
+         "@name":"No Good in Goodbye"
+        },
+        {
+         "@name":"Hall of Fame"
+        }
+       ]
+      }
+     ]
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/the-script\/2015\/meo-arena-lisbon-portugal-3cb612f.html"
+   },
+   {
+    "@eventDate":"01-04-2015",
+    "@id":"bcb612e",
+    "@lastUpdated":"2015-04-02T01:32:31.000+0000",
+    "@tour":"No Sound Without Silence Tour",
+    "@versionId":"3b8c4470",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"3cce3d37-d44f-46a2-b1e3-cd7247d5015c",
+     "@name":"Tinie Tempah",
+     "@sortName":"Tinie Tempah",
+     "@tmid":"1466980",
+     "url":"http:\/\/www.setlist.fm\/setlists\/tinie-tempah-73d42a89.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":{
+     "set":{
+      "song":[
+       {
+        "@name":"Written in the Stars"
+       },
+       {
+        "@name":"Frisky"
+       },
+       {
+        "@name":"Earthquake",
+        "cover":{
+         "@disambiguation":"UK singer-songwriter and record producer",
+         "@mbid":"dc99e6fd-c710-4f79-b74b-127b4d0b7849",
+         "@name":"Labrinth",
+         "@sortName":"Labrinth",
+         "url":"http:\/\/www.setlist.fm\/setlists\/labrinth-3bd56868.html"
+        }
+       },
+       {
+        "@name":"Trampoline"
+       },
+       {
+        "@name":"Flash"
+       },
+       {
+        "@name":"Pass Out"
+       },
+       {
+        "@name":"Miami 2 Ibiza"
+       },
+       {
+        "@name":"Drinking From the Bottle",
+        "cover":{
+         "@disambiguation":"Scottish producer\/songwriter",
+         "@mbid":"8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+         "@name":"Calvin Harris",
+         "@sortName":"Harris, Calvin",
+         "@tmid":"1149552",
+         "url":"http:\/\/www.setlist.fm\/setlists\/calvin-harris-4bd667a6.html"
+        }
+       },
+       {
+        "@name":"Tsunami (Jump)",
+        "cover":{
+         "@disambiguation":"",
+         "@mbid":"c3bba486-b24b-4a39-bc4c-b0085950afcd",
+         "@name":"DVBBS",
+         "@sortName":"DVBBS",
+         "url":"http:\/\/www.setlist.fm\/setlists\/dvbbs-3daede7.html"
+        }
+       }
+      ]
+     }
+    },
+    "url":"http:\/\/www.setlist.fm\/setlist\/tinie-tempah\/2015\/meo-arena-lisbon-portugal-bcb612e.html"
+   },
+   {
+    "@eventDate":"13-03-2015",
+    "@id":"1bcbc9b8",
+    "@lastUpdated":"2015-03-14T16:16:44.000+0000",
+    "@tour":"IS20",
+    "@versionId":"b8e8dfa",
+    "artist":{
+     "@disambiguation":"",
+     "@mbid":"d553e89c-3c2a-4f10-9ce1-9eaa74de0129",
+     "@name":"Ivete Sangalo",
+     "@sortName":"Sangalo, Ivete",
+     "@tmid":"8153",
+     "url":"http:\/\/www.setlist.fm\/setlists\/ivete-sangalo-6bd62e42.html"
+    },
+    "venue":{
+     "@id":"33d4a8c9",
+     "@name":"MEO Arena",
+     "city":{
+      "@id":"2267057",
+      "@name":"Lisbon",
+      "@state":"Lisbon",
+      "@stateCode":"14",
+      "coords":{
+       "@lat":"38.7166667",
+       "@long":"-9.1333333"
+      },
+      "country":{
+       "@code":"PT",
+       "@name":"Portugal"
+      }
+     },
+     "url":"http:\/\/www.setlist.fm\/venue\/meo-arena-lisbon-portugal-33d4a8c9.html"
+    },
+    "sets":"",
+    "url":"http:\/\/www.setlist.fm\/setlist\/ivete-sangalo\/2015\/meo-arena-lisbon-portugal-1bcbc9b8.html"
+   }
+  ]
+ }
+}
